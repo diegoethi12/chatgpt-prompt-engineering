@@ -12,6 +12,8 @@ python = "^3.11"
 openai = "^1.42.0"
 python-dotenv = "^1.0.1"
 redlines = "^0.4.2"
+panel = "^1.4.5"
+jupyter-bokeh = "^4.0.5"
 
 
 [build-system]
