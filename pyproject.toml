@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "chatgpt-prompt-engineering"
+version = "0.1.0"
+description = ""
+authors = ["diegol <diegoethi12@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+
+[tool.poetry.dependencies]
+python = "^3.11"
+openai = "^1.42.0"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
